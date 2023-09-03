@@ -6,10 +6,10 @@ public class ContaTerminal {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        // int agencia = 1021;
-        // String conta = "067-8";
-        // String usuario = "Mario Andrade";
-        // double saldo = 237.48;
+        // int agencia = 1021
+        // String conta = "067-8"
+        // String usuario = "Mario Andrade"
+        // double saldo = 237.48
 
         System.out.print("Por favor, digite o nome de Usuário: ");
         String usuario = sc.nextLine();
