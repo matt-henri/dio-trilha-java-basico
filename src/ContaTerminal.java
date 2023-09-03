@@ -6,8 +6,8 @@ public class ContaTerminal {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        // int ag = 1021;
-        // String agencia = "067-8";
+        // int agencia = 1021;
+        // String conta = "067-8";
         // String usuario = "Mario Andrade";
         // double saldo = 237.48;
 
